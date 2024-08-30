@@ -46,7 +46,7 @@ Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scop
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 **Detailed Project Schedule:** Improves planning, communication, time management, resource allocation, risk management, progress tracking, and cost control.
 **Gantt Charts:** Assist by providing a visual representation, managing tasks, monitoring progress, allocating resources, identifying the critical path, and enhancing collaboration.
-## 8.****************
+## 8.***
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly defining the problem is a critical step in developing an effective software by solution  providing focused objectives, accurate requirements, efficient resource allocation, risk mitigation, improved communication, tailored solutions, and measurable success. It sets the foundation for a successful project by ensuring that everyone involved understands the problem and works towards a common goal.
